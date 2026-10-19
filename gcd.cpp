@@ -14,4 +14,4 @@ int main() {
     return 0;
 }
 
-//TC : O(log(min(a,b)));
+//TC : O(log(min(a,b)));  //tc
