@@ -17,6 +17,6 @@ bool isPrime(int n) {
 int main() {
     int n = 7;  
   	if(isPrime(n)) cout << "truee";
-  	else cout<<"false";
+  	else cout<<"falseee";
     return 0;
 }
