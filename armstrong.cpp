@@ -12,6 +12,6 @@ int main(){
         num = num/10;
     }
     if(sum==n)cout<<"true";
-    else cout<<"false";
+    else cout<<"falseee";
     return 0;
 }
