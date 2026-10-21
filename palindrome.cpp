@@ -9,7 +9,7 @@ int main(){
         rev=rev*10+n%10;
         n=n/10;
     }
-    if(number==rev)cout<<"true";
+    if(number==rev)cout<<"truee";
     else cout<<"false";
     return 0;
 }
